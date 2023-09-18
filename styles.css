@@ -2,11 +2,14 @@ nav{
 	background-color:#D3D3D3;
 	padding:10px;
 }
+ul{
+	display:flex;
+	justify-content:space-between;
+}
 ul>li{
 	list-style-type: none;
 	display: inline;
 	margin-right: 1rem;
 	font-size: larger;
 	font-weight: bolder;
-	margin-left: 30px;
 }
